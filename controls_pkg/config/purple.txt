@@ -1,0 +1,43 @@
+btns
+mapping, index
+
+a,0 
+b,1
+x,2
+y,3
+
+lbump, 4
+rbump, 5
+
+minus, 6
+plus, 7
+heart, 8
+
+rthumb, 9
+lthumb, 10
+
+----
+
+axes
+mapping, index
+
+left joy left, 0 pos
+left joy right, 0 neg
+left joy down, 1 neg
+left joy up, 1 pos
+
+right joy left, 3 pos
+right joy right, 3 neg
+right joy down, 4 neg
+right joy up, 4 pos
+
+right trigger down, 5 neg
+right trigger up, 5 pos
+
+left trigger down, 2 neg
+left trigger up, 2 pos
+
+d left, 6 pos
+d right, 6 neg 
+d up, 7 pos
+d down, 7 neg

@@ -1,0 +1,1 @@
+float32 motor_power_watts

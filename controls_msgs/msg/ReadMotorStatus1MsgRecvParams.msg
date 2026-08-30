@@ -1,0 +1,5 @@
+float32 motor_temperature_c
+float32 mos_temperature
+float32 break_state
+float32 voltage_volts
+float32 error_status

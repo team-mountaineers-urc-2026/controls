@@ -1,0 +1,2 @@
+int32 speed_limit_dps
+int32 goal_angle_degrees

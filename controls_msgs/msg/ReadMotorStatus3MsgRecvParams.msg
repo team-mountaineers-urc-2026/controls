@@ -1,0 +1,4 @@
+float32 motor_temperature_c
+float32 phase_a_current_amps
+float32 phase_b_current_amps
+float32 phase_c_current_amps

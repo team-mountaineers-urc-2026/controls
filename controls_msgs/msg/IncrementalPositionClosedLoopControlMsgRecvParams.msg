@@ -1,0 +1,4 @@
+float32 motor_temperature_c
+float32 current_amps
+float32 speed_dps
+float32 angle_degrees

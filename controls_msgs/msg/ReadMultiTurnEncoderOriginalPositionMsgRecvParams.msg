@@ -1,0 +1,1 @@
+float32 encoder_original_position

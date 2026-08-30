@@ -1,0 +1,3 @@
+float32 encoder_position
+float32 encoder_original_position
+float32 encoder_zero_offset
